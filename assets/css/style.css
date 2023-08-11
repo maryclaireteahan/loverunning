@@ -220,6 +220,7 @@ main {
     color: #ffffff;
     background-color: rgba(60, 60, 60, .6);
     padding:30px;
+
 }
 
 #signup-form>h2 {
@@ -353,7 +354,6 @@ main {
     
     #signup-form {
         max-width: 400px;
-        position: absolute;
         top:150px;
         left:10%;
     }
